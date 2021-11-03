@@ -1,0 +1,13 @@
+button{
+background-color: cornflowerblue;
+border-radius: 14px;
+padding: 9px;
+}
+
+li:hover{
+    background-color: beige;
+
+}
+.active{
+    background-color: beige;
+}
